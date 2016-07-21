@@ -12,5 +12,7 @@ Tips: Set this script to run as a cron job
 
 
 #Requirements:
+- Update the script with e-mail credential etc.
+- Update the script with your VirusTotal API key, or find the open API key
 - A Modern Honey Network (MHN) server. Read more at https://github.com/threatstream/mhn/
 - Python
